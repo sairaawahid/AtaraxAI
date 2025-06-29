@@ -1,1 +1,9 @@
-
+streamlit
+transformers
+unsloth
+torch
+pandas
+scikit-learn
+soundfile
+librosa
+ollama
