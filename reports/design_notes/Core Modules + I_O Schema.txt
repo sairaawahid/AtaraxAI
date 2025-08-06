@@ -1,0 +1,5 @@
+| Module                 | Input             | Output                            | Description                           |
+| ------------------------ | -----------------  | -------------------------------- | -------------------------------------- |
+| Journaling Input       | User-written text | Text string                       | Captures raw mental health reflection |
+| CBT Response Generator | Text + Sentiment  | Empathetic, actionable CBT prompt | Helps users reframe thoughts          |
+| Crisis Detection       | Journal text      | Binary: Crisis/Non-crisis         | Detects suicidal/self-harm ideation   |
