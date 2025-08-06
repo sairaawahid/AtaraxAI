@@ -1,0 +1,31 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Streamlit user data
+user_data/
+*.db
+*.sqlite3
+
+# VS Code
+.vscode/
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.venv/
+venv/
+
+# Logs
+*.log
+
+# Streamlit Cloud
+.streamlit/secrets.toml
