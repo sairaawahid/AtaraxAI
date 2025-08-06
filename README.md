@@ -162,3 +162,13 @@ matplotlib==3.9.0
 git clone https://github.com/yourusername/ataraxai.git
 cd ataraxai
 
+## Attribution
+This project was developed by Sairaawahid.
+If you use or adapt this app, please credit the author by linking to the original GitHub repository:
+🔗 https://github.com/sairaawahid/AtaraxAI-Gemma3n
+
+---
+
+## License
+This project is licensed under the MIT License.
+See the `LICENSE` file for more details.
