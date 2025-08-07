@@ -144,15 +144,16 @@ matplotlib==3.9.0
 
 [Watch the Demo Video Here: ](https://youtu.be/domyxmGr4Po)>
 
-
 ---
 
 ## Setup & Installation
 
-### 1. **Clone the Repo**
+### Clone the Repo
 ```bash
 git clone https://github.com/yourusername/ataraxai.git
 cd ataraxai
+
+---
 
 ## Attribution
 This project was developed by [Sairaaw](https://www.linkedin.com/in/sairaabdulwahid/).
