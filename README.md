@@ -155,7 +155,7 @@ git clone https://github.com/yourusername/ataraxai.git
 cd ataraxai
 
 ## Attribution
-This project was developed by Sairaawahid.
+This project was developed by [Sairaaw](https://www.linkedin.com/in/sairaabdulwahid/).
 If you use or adapt this app, please credit the author by linking to the original GitHub repository:
 🔗 https://github.com/sairaawahid/AtaraxAI-Gemma3n
 
