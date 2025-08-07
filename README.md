@@ -142,7 +142,7 @@ matplotlib==3.9.0
 
 ## Demo Video
 
-[Watch the Demo Video Here: ](https://youtu.be/domyxmGr4Po)>
+[Watch the Demo Video Here](https://youtu.be/domyxmGr4Po)
 
 ---
 
