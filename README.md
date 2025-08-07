@@ -96,42 +96,36 @@ Millions face barriers to quality mental health support: stigma, lack of access,
 
 ---
 
-## **Requirements**  
-# Supports: Streamlit Cloud (online) & Local Inference (offline)
-# -------------------------------
-# Core Streamlit App (Both Online + Offline)
-# -------------------------------
+## Requirements 
+Supports: Streamlit Cloud (online) & Local Inference (offline)
+
+Core Streamlit App (Both Online + Offline):
 streamlit==1.35.0
 fpdf==1.7.2
 pandas==2.2.2
 plotly==5.22.0
 
-# -------------------------------
-# NLP Models & Transformers (Both)
-# -------------------------------
+
+NLP Models & Transformers (Both):
 transformers==4.41.2
 torch==2.3.0
 sentencepiece  # Required for T5, BERT
 scikit-learn==1.5.0
 protobuf==4.25.3  # Required for ONNX/transformers compatibility
 
-# -------------------------------
-# ONNX Runtime for Crisis Detection (Both)
-# -------------------------------
+ONNX Runtime for Crisis Detection (Both):
 onnxruntime==1.17.1
 
-# -------------------------------
-# 🔁 Optional (Only Needed for LOCAL Deployment)
-# -------------------------------
+Optional (Only Needed for LOCAL Deployment):
 
-# --- Local LLM Inference via Ollama ---
-ollama  # Only works locally, not on Streamlit Cloud
+Local LLM Inference via Ollama:
+ollama  (Only works locally, not on Streamlit Cloud)
 
-# --- Fine-tuning / Fast Inference Tools (if still used) ---
+Fine-tuning / Fast Inference Tools (if still used)
 unsloth==0.2.0  # Used for fine-tuning (optional if inference-only)
 accelerate==0.30.1  # Required by unsloth for fast training
 
-# --- Local Plotting for Notebook Testing (Optional) ---
+Local Plotting for Notebook Testing (Optional):
 matplotlib==3.9.0
 
 ---
