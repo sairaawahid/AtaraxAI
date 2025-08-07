@@ -146,12 +146,10 @@ matplotlib==3.9.0
 
 ---
 
-## Demo & Screenshots
+## Demo Video
 
-> **[Watch the Demo Video Here](#)** <!-- Add YouTube link after recording -->
->
-> ![ataraxai-journal](assets/ataraxai_journal.png)
-> ![ataraxai-analytics](assets/ataraxai_analytics.png)
+[Watch the Demo Video Here: ](https://youtu.be/domyxmGr4Po)>
+
 
 ---
 
