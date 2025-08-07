@@ -150,8 +150,9 @@ matplotlib==3.9.0
 
 ### Clone the Repo
 ```bash
-git clone https://github.com/yourusername/ataraxai.git
+git clone https://github.com/sairaawahid/AtaraxAI-Gemma3n
 cd ataraxai
+```
 
 ---
 
