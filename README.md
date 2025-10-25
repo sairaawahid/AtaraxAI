@@ -7,24 +7,6 @@
 
 ---
 
-## Table of Contents
-- [Overview](#overview)
-- [Problem Statement](#problem-statement)
-- [Solution Overview](#solution-overview)
-- [Key Features](#key-features)
-- [How Gemma 3n Is Used](#how-gemma-3n-is-used)
-- [Dataset & Fine-tuning](#dataset--fine-tuning)
-- [Technical Stack](#technical-stack)
-- [Target Impact](#target-impact)
-- [Demo Video Link](#demo--screenshots)
-- [Setup & Installation](#setup--installation)
-- [Usage](#usage)
-- [Ethical Disclaimer](#ethical-disclaimer)
-- [License](#license)
-- [Contact](#contact)
-
----
-
 ## Overview
 
 AtaraxAI is an open-source, privacy-first AI mental health companion that provides Cognitive Behavioral Therapy (CBT) support and real-time crisis detection — all entirely **offline**. Powered by the Gemma 3n LLM and ONNX fine-tuned models, AtaraxAI empowers users to journal, reflect, and build resilience, ensuring sensitive data never leaves their device.
